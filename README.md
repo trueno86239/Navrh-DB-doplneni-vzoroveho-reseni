@@ -1,1 +1,1 @@
-# Navrh-DB-doplneni-vzoroveho-reseni
+# Návrh DB - doplnění vzorového řešení
