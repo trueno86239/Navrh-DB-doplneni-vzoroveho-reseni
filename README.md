@@ -1,0 +1,1 @@
+# Navrh-DB-doplneni-vzoroveho-reseni
